@@ -2,4 +2,4 @@
 
 Detailed BRD available here:
 
-[View BRD](YOUR_NOTION_BRD_LINK)
+[View BRD](https://app.notion.com/p/Subscription-Management-Application-37ad4819a825809e9410c06ac194973b?source=copy_link)
